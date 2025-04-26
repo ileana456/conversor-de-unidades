@@ -7,12 +7,12 @@ Un conversor de monedas simple y elegante desarrollado con HTML, CSS y JavaScrip
 - Interfaz de usuario moderna y responsiva
 - Conversión en tiempo real entre múltiples monedas
 - Soporte para las siguientes monedas:
-  - NIO (Córdoba nicaragüense)
-  - USD (Dólar Estadounidense)
+  - NIO (won sur coreano)
+  - USD (quetzal guatemala)
   - EUR (Euro)
-  - GBP (Libra Esterlina)
-  - JPY (Yen Japonés)
-  - MXN (Peso Mexicano)
+  - GBP (lempira honduras)
+  - JPY (cordoba bolivia)
+  - MXN (yuan china)
 - Botón de intercambio rápido entre monedas
 - Muestra la tasa de cambio actual
 - Diseño intuitivo y fácil de usar

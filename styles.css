@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(135deg, #818fca 0%, #630cb9 100%);
+    background: linear-gradient(135deg, #4a16c4 0%, #1b1621 100%);
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -20,22 +20,22 @@ body {
 }
 
 .converter-box {
-    background: rgba(255, 255, 255, 0.95);
+    background: rgba(111, 15, 15, 0.95);
     padding: 30px;
     border-radius: 15px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 30px rgba(96, 6, 6, 0.1);
 }
 
 h1 {
     text-align: center;
-    color: #333;
+    color: #7a0f0f;
     margin-bottom: 30px;
     font-size: 24px;
 }
 
 h1 i {
     margin-right: 10px;
-    color: #667eea;
+    color: #2ea91c;
 }
 
 .input-group {
@@ -52,14 +52,14 @@ h1 i {
 }
 
 label {
-    color: #555;
+    color: #0dbece;
     font-size: 14px;
     font-weight: 500;
 }
 
 input, select {
     padding: 12px;
-    border: 2px solid #e0e0e0;
+    border: 2px solid #390662;
     border-radius: 8px;
     font-size: 16px;
     transition: all 0.3s ease;
@@ -67,13 +67,13 @@ input, select {
 
 input:focus, select:focus {
     outline: none;
-    border-color: #667eea;
-    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+    border-color: #1c7eae;
+    box-shadow: 0 0 0 3px rgba(6, 98, 126, 0.1);
 }
 
 .swap-btn {
     background: #667eea;
-    color: white;
+    color: rgb(132, 21, 155);
     border: none;
     padding: 12px;
     border-radius: 8px;
@@ -90,7 +90,7 @@ input:focus, select:focus {
 }
 
 .result {
-    background: #f8f9fa;
+    background: #bd5f0c;
     padding: 20px;
     border-radius: 8px;
     margin-bottom: 20px;
@@ -104,14 +104,14 @@ input:focus, select:focus {
 
 #converted-amount, #exchange-rate {
     font-weight: bold;
-    color: #333;
+    color: #102da0;
 }
 
 .convert-btn {
     width: 100%;
     padding: 15px;
     background: #667eea;
-    color: white;
+    color: rgb(155, 175, 21);
     border: none;
     border-radius: 8px;
     font-size: 16px;
@@ -121,7 +121,7 @@ input:focus, select:focus {
 }
 
 .convert-btn:hover {
-    background: #764ba2;
+    background: #0aa164;
     transform: translateY(-2px);
 }
 
